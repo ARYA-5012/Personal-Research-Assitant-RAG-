@@ -88,7 +88,8 @@ APP_PASSWORD = "your-secure-password"
 streamlit run app.py
 ```
 
-Open `http://localhost:8501` in your browser and enter your `APP_PASSWORD`.
+Open `http://localhost:8501` in your browser.
+**Default Passkey:** `research_secure_123`
 
 ---
 
